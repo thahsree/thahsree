@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **THASHREEF**!
+# 👋 Hi, I'm **THASHREEF**
 
 I'm a passionate **Full-Stack Developer** specializing in building scalable and user-friendly web applications. I thrive on solving problems, learning new technologies, and bringing ideas to life through code. My journey into tech began from a non-IT background, making me a strong believer in the power of continuous learning and determination.
 
